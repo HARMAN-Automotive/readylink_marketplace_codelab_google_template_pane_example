@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "codelab_google_template_pane"
+rootProject.name = "readylink_marketplace_codelab_google_template_pane_example"
 include ':automotive'
